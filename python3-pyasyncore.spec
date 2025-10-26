@@ -3,7 +3,6 @@
 %bcond_without	doc	# API documentation
 %bcond_without	tests	# unit tests (localhost networking required)
 
-%define		module	template
 Summary:	Make asyncore available for Python 3.12 onwards
 Summary(pl.UTF-8):	Moduł pyasncore dostępny dla Pythona 3.12 i nowszych
 Name:		python3-pyasyncore
